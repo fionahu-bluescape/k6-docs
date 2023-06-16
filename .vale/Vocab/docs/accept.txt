@@ -208,3 +208,4 @@ srgb
 kwallet
 referer
 scrollable
+headful
